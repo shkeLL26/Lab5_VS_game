@@ -1,0 +1,367 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|C:\\Users\\user\\source\\repos\\Lab5\\lab5\\playermovinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|solutionrelative:lab5\\playermovinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Lab5||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|c:\\users\\user\\source\\repos\\lab5\\lab5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|solutionrelative:lab5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|C:\\Users\\user\\source\\repos\\Lab5\\lab5\\playerspriteshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|solutionrelative:lab5\\playerspriteshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|C:\\Users\\user\\source\\repos\\Lab5\\lab5\\resources\\logo.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|solutionrelative:lab5\\resources\\logo.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|C:\\Users\\user\\source\\repos\\Lab5\\lab5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|solutionrelative:lab5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|C:\\Users\\user\\source\\repos\\Lab5\\lab5\\enemymovinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|solutionrelative:lab5\\enemymovinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|C:\\Users\\user\\source\\repos\\Lab5\\lab5\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|solutionrelative:lab5\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|C:\\Users\\user\\source\\repos\\Lab5\\lab5\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|solutionrelative:lab5\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|C:\\Users\\user\\source\\repos\\Lab5\\lab5\\gamescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|solutionrelative:lab5\\gamescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|C:\\Users\\user\\source\\repos\\Lab5\\lab5\\enemyspriteshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|solutionrelative:lab5\\enemyspriteshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|C:\\Users\\user\\source\\repos\\Lab5\\lab5\\friendmovinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|solutionrelative:lab5\\friendmovinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|C:\\Users\\user\\source\\repos\\Lab5\\lab5\\soundhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|solutionrelative:lab5\\soundhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|C:\\Users\\user\\source\\repos\\Lab5\\lab5\\formsettings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|solutionrelative:lab5\\formsettings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|C:\\Users\\user\\source\\repos\\Lab5\\lab5\\formsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|solutionrelative:lab5\\formsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|C:\\Users\\user\\source\\repos\\Lab5\\lab5\\formsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|solutionrelative:lab5\\formsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|C:\\Users\\user\\source\\repos\\Lab5\\lab5\\friendspriteshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|solutionrelative:lab5\\friendspriteshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|C:\\Users\\user\\source\\repos\\Lab5\\lab5\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|solutionrelative:lab5\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|C:\\Users\\user\\source\\repos\\Lab5\\lab5\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|solutionrelative:lab5\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|C:\\Users\\user\\source\\repos\\Lab5\\lab5\\friend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|solutionrelative:lab5\\friend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|c:\\users\\user\\source\\repos\\lab5\\lab5\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A9A4707E-040F-4950-880A-AC7D2F857FD4}|Lab5\\Lab5.csproj|solutionrelative:lab5\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 488,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 156,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab5",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\Lab5.csproj",
+              "RelativeDocumentMoniker": "Lab5\\Lab5.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\Lab5.csproj",
+              "RelativeToolTip": "Lab5\\Lab5.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-06T14:57:29.425Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\Player.cs",
+              "RelativeDocumentMoniker": "Lab5\\Player.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\Player.cs",
+              "RelativeToolTip": "Lab5\\Player.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:46:46.211Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovingHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\PlayerMovingHandler.cs",
+              "RelativeDocumentMoniker": "Lab5\\PlayerMovingHandler.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\PlayerMovingHandler.cs",
+              "RelativeToolTip": "Lab5\\PlayerMovingHandler.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwDYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:56:41.992Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerSpritesHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\PlayerSpritesHandler.cs",
+              "RelativeDocumentMoniker": "Lab5\\PlayerSpritesHandler.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\PlayerSpritesHandler.cs",
+              "RelativeToolTip": "Lab5\\PlayerSpritesHandler.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA0wCYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:04:50.535Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnemyMovingHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\EnemyMovingHandler.cs",
+              "RelativeDocumentMoniker": "Lab5\\EnemyMovingHandler.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\EnemyMovingHandler.cs",
+              "RelativeToolTip": "Lab5\\EnemyMovingHandler.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAA0wCsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:25:12.486Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab5\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\Form1.cs",
+              "RelativeToolTip": "Lab5\\Form1.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwC4AAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:14:51.053Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab5\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Lab5\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:53:35.093Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "logo.jpg",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\Resources\\logo.jpg",
+              "RelativeDocumentMoniker": "Lab5\\Resources\\logo.jpg",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\Resources\\logo.jpg",
+              "RelativeToolTip": "Lab5\\Resources\\logo.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-18T11:55:08.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Lab5\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\Form1.Designer.cs",
+              "RelativeToolTip": "Lab5\\Form1.Designer.cs",
+              "ViewState": "AQIAAOwAAAAAAAAAAAD4v/cAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T09:35:38.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameScreen.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\GameScreen.cs",
+              "RelativeDocumentMoniker": "Lab5\\GameScreen.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\GameScreen.cs",
+              "RelativeToolTip": "Lab5\\GameScreen.cs",
+              "ViewState": "AQIAACYBAAAAAAAAAAAgwEIBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T11:44:20.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnemySpritesHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\EnemySpritesHandler.cs",
+              "RelativeDocumentMoniker": "Lab5\\EnemySpritesHandler.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\EnemySpritesHandler.cs",
+              "RelativeToolTip": "Lab5\\EnemySpritesHandler.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAtwEcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:23:56.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FriendMovingHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\FriendMovingHandler.cs",
+              "RelativeDocumentMoniker": "Lab5\\FriendMovingHandler.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\FriendMovingHandler.cs",
+              "RelativeToolTip": "Lab5\\FriendMovingHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:07:43.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormSettings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\FormSettings.Designer.cs",
+              "RelativeDocumentMoniker": "Lab5\\FormSettings.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\FormSettings.Designer.cs",
+              "RelativeToolTip": "Lab5\\FormSettings.Designer.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAiwFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:05:58.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormSettings.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\FormSettings.cs",
+              "RelativeDocumentMoniker": "Lab5\\FormSettings.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\FormSettings.cs",
+              "RelativeToolTip": "Lab5\\FormSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:05:52.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormSettings.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\FormSettings.cs",
+              "RelativeDocumentMoniker": "Lab5\\FormSettings.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\FormSettings.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Lab5\\FormSettings.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:00:16.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SoundHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\SoundHandler.cs",
+              "RelativeDocumentMoniker": "Lab5\\SoundHandler.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\SoundHandler.cs",
+              "RelativeToolTip": "Lab5\\SoundHandler.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAlwCwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:29:06.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\IEntity.cs",
+              "RelativeDocumentMoniker": "Lab5\\IEntity.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\IEntity.cs",
+              "RelativeToolTip": "Lab5\\IEntity.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA0wCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:13:14.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\Enemy.cs",
+              "RelativeDocumentMoniker": "Lab5\\Enemy.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\Enemy.cs",
+              "RelativeToolTip": "Lab5\\Enemy.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wCsAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:47:42.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Friend.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\Friend.cs",
+              "RelativeDocumentMoniker": "Lab5\\Friend.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\Friend.cs",
+              "RelativeToolTip": "Lab5\\Friend.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwBAAAACKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:16:43.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FriendSpritesHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\FriendSpritesHandler.cs",
+              "RelativeDocumentMoniker": "Lab5\\FriendSpritesHandler.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Lab5\\Lab5\\FriendSpritesHandler.cs",
+              "RelativeToolTip": "Lab5\\FriendSpritesHandler.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAtwDEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:46:42.563Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
